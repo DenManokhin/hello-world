@@ -1,7 +1,7 @@
 # hello-world
 My first repository
 
-    Some changes
+  Some changes
 
 
 new text
